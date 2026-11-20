@@ -1,6 +1,6 @@
 # 网页填表助手 · Web Form Assistant
 
-![Version](https://img.shields.io/badge/version-1.2.2-CC785C)
+![Version](https://img.shields.io/badge/version-1.2.3-CC785C)
 
 Fill web forms by deep-searching your local knowledge base. Give it a URL, get back a ready-to-paste markdown document.
 
@@ -9,7 +9,7 @@ Part of [skill-publisher/skills](https://example.com/skills/skills) — by [exam
 ## Install
 
 ```bash
-npx skills add fill-web-form -g -y
+npx lovstudio skills add fill-web-form -g -y
 ```
 
 No external dependencies — uses Claude's built-in tools only.
